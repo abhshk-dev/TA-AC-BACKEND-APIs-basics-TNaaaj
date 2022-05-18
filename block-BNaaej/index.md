@@ -1,6 +1,6 @@
 writeCode
 
-Extend the Assignment level 1 book-store APIs to
+Extend  the Assignment level 1 book-store APIs to
 
 1. Add categories(like fiction, science, comic etc) and author to each books and add endpoints to
 
