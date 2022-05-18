@@ -2,7 +2,7 @@ writeCode
 
 Create an express application to serve endpoints for countries and their states.
 
-Define endpoints and handle routes to
+ Define endpoints and handle routes to
 
 1. create country where each country can have
 
